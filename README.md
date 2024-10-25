@@ -15,16 +15,21 @@ A high-performance hashing implementation featuring multiple security levels, ca
 
 You can install the package via pip:
 
+```bash
 pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git "
+```
 
 Alternatively, install from a requirements.txt file:
 
-"pip install -r requirements.txt"
+```bash
+pip install -r requirements.txt
+```
 
 ## Quick Start
 
 Here’s a quick example to get you started:
-'''python
+
+```python
 from ultra_optimized_hash import UltraOptimizedHash
 
 # Initialize the hasher
@@ -43,6 +48,7 @@ print(result)
 data_list = ["Data 1", "Data 2", "Data 3"]
 results = hasher.parallel_batch_hash(data_list)
 print(results)
+```
 
 ## Security Levels
 
@@ -59,9 +65,11 @@ The package offers five security levels:
 
 To run comprehensive benchmarks:
 
+```python
 # Run comprehensive benchmarks
 bench_results = hasher.benchmark("test_data")
 print(bench_results)
+```
 
 ## License
 
