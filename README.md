@@ -16,7 +16,7 @@ A high-performance hashing implementation featuring multiple security levels, ca
 You can install the package via pip:
 
 ```bash
-pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git "
+pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git
 ```
 
 Alternatively, install from a requirements.txt file:
