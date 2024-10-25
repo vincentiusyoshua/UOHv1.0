@@ -15,7 +15,7 @@ A high-performance hashing implementation featuring multiple security levels, ca
 
 You can install the package via pip:
 
-" pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git "
+pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git "
 
 Alternatively, install from a requirements.txt file:
 
@@ -24,8 +24,8 @@ Alternatively, install from a requirements.txt file:
 ## Quick Start
 
 Here’s a quick example to get you started:
-
-"from ultra_optimized_hash import UltraOptimizedHash"
+'''python
+from ultra_optimized_hash import UltraOptimizedHash
 
 # Initialize the hasher
 hasher = UltraOptimizedHash(
