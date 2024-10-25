@@ -1,4 +1,0 @@
-numpy>=1.19.0 
-blake3>=0.3.0 
-cryptography>=3.4.0 
-psutil>=5.8.0
