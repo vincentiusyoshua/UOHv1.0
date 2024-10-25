@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="ultra-optimized-hash",
+    name="ultra_optimized_hash",
     version="0.1.0",
     author="Your Name",
     author_email="your.email@example.com",
