@@ -1,6 +1,6 @@
 # Ultra Optimized Hash
 
-A high-performance hashing implementation featuring multiple security levels, caching, and parallel processing capabilities.
+A dynamic hashing implementation featuring multiple security levels, caching, and parallel processing capabilities.
 
 ## Features
 
