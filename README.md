@@ -1,4 +1,4 @@
-# Ultra Optimized Hash
+# Dynamic Security Hash
 
 A dynamic hashing implementation featuring multiple security levels, caching, and parallel processing capabilities.
 
@@ -16,7 +16,7 @@ A dynamic hashing implementation featuring multiple security levels, caching, an
 You can install the package via pip:
 
 ```bash
-pip install git+https://github.com/vincentiusyoshua/ultra_optimized_hash.git
+pip install git+https://github.com/vincentiusyoshua/dynamic_security_hash.git
 ```
 
 Alternatively, install from a requirements.txt file:
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Here’s a quick example to get you started:
 
 ```python
-from ultra_optimized_hash import UltraOptimizedHash
+from dynamic_security_hash import UltraOptimizedHash
 
 # Initialize the hasher
 hasher = UltraOptimizedHash(
