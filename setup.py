@@ -4,14 +4,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="ultra_optimized_hash",
+    name="dsh",
     version="0.1.0",
-    author="vincentiusyoshua",
-    author_email="your.email@example.com",
-    description="An ultra-optimized hashing implementation with multiple security levels",
+    authorname ="vincentiusyoshua",
+    description="A hashing implementation with multiple security levels",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vincentiusyoshua/ultra_optimized_hash",
+    url="https://github.com/vincentiusyoshua/dynamic_security_hash",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
