@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Here’s a quick example to get you started:
 
 ```python
-from dynamic_security_hash import UltraOptimizedHash
+from dsh import UltraOptimizedHash
 
 # Initialize the hasher
 hasher = UltraOptimizedHash(
